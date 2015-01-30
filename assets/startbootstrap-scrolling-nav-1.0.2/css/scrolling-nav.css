@@ -50,10 +50,12 @@ of those sections to manage the look and feel of the site. */
 }
 
 .about-section {
+    font-size: 20px;
     height: 100%;
     padding-top: 30px;
     text-align: center;
     background: #eee;
+    padding-bottom: 50px;
 }
 
 .services-section {

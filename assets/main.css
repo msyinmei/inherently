@@ -1,5 +1,51 @@
+body{
+  font-family: 'Raleway', sans-serif;
+}
+
+.carousel-inner{
+  max-height: 100vh;
+  overflow: hidden;
+
+}
+
 .carousel-inner>.item>img {
+top: -50px;
 width: 100%;
 margin: auto;
-overflow: hidden;
 }
+
+.carousel-caption{
+  font-size: 28px;
+  top: 150px;
+}
+
+.plan-header{
+  background-color: green;
+  color: #FFFFFF;
+  font-size: 30px;
+}
+
+.col-md-4{
+  padding: 10px;
+  padding-top: 15px;
+  padding-bottom: 10px;
+}
+
+.col-md-3{
+  padding: 10px;
+  padding-top: 15px;
+  padding-bottom: 10px;
+}
+
+.col-md-2{
+  padding: 10px;
+  padding-top: 15px;
+  padding-bottom: 10px;
+}
+
+.img-rounded{
+    width:25px;
+  }
+  .title1{
+    display:inline-block;
+  }
